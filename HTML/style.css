@@ -1,0 +1,17 @@
+.square{
+    height:100px;
+    width:100px;
+    background-color:blue;
+    border-radius: 50px;
+    display:inline;
+}
+#first{
+    background-color: red;
+}
+#second{
+    background-color: blueviolet;
+}
+p{
+    background-color: black;
+    color:white;
+}
